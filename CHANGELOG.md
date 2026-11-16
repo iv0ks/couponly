@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/iv0ks/couponly/compare/v1.1.0...v1.1.1) (2026-11-16)
+
+
+### Bug Fixes
+
+* remove bundled npm from the runtime image ([e37b871](https://github.com/iv0ks/couponly/commit/e37b8715eda01f36d6a4279db201f177ed913a95))
+
 ## [1.1.0](https://github.com/iv0ks/couponly/compare/v1.0.0...v1.1.0) (2026-11-16)
 
 

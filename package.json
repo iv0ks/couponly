@@ -1,6 +1,6 @@
 {
   "name": "couponly",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "description": "Intentionally vulnerable coupons API to practice IDOR on hashids-obfuscated ids (CWE-639).",
   "type": "module",
